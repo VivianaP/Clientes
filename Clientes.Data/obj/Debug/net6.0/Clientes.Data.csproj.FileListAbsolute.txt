@@ -1,0 +1,15 @@
+C:\ProyectosGit\Clientes\Clientes.Data\bin\Debug\net6.0\Clientes.Data.deps.json
+C:\ProyectosGit\Clientes\Clientes.Data\bin\Debug\net6.0\Clientes.Data.dll
+C:\ProyectosGit\Clientes\Clientes.Data\bin\Debug\net6.0\ref\Clientes.Data.dll
+C:\ProyectosGit\Clientes\Clientes.Data\bin\Debug\net6.0\Clientes.Data.pdb
+C:\ProyectosGit\Clientes\Clientes.Data\bin\Debug\net6.0\Clientes.Model.dll
+C:\ProyectosGit\Clientes\Clientes.Data\bin\Debug\net6.0\Clientes.Model.pdb
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\Clientes.Data.csproj.AssemblyReference.cache
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\Clientes.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\Clientes.Data.AssemblyInfoInputs.cache
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\Clientes.Data.AssemblyInfo.cs
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\Clientes.Data.csproj.CoreCompileInputs.cache
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\Clientes.Data.csproj.CopyComplete
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\Clientes.Data.dll
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\ref\Clientes.Data.dll
+C:\ProyectosGit\Clientes\Clientes.Data\obj\Debug\net6.0\Clientes.Data.pdb
