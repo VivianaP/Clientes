@@ -1,6 +1,6 @@
 export interface Cliente {
     id?: number;
-    nombreTercero?: string;
+    nombre?: string;
     tipoDocumento?: number;
     documento?: string;
     razonSocial?: string;

@@ -1,0 +1,226 @@
+﻿++Solución "Clientes" ‎(3 de 3 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:Clientes.sln
+++Clientes.Data
+i:{00000000-0000-0000-0000-000000000000}:Clientes.Data
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes.data\clientes.data.csproj
+++Dependencias
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:>12305
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:>12306
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:>77598
+++Analizadores
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:analizadores
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:analizadores
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:analizadores
+++Marcos de trabajo
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:marcos de trabajo
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:marcos de trabajo
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:marcos de trabajo
+++Paquetes
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:paquetes
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:paquetes
+++Proyectos
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:proyectos
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:proyectos
+++Clientes.Model
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\proyectosgit\clientes\clientes.model\clientes.model.csproj
+i:{00000000-0000-0000-0000-000000000000}:Clientes.Model
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes.model\clientes.model.csproj
+++Repositorios
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\proyectosgit\clientes\clientes.data\repositorios\
+++ClienteRepositorio.cs
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\proyectosgit\clientes\clientes.data\repositorios\clienterepositorio.cs
+++IClienteRepositorio.cs
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\proyectosgit\clientes\clientes.data\repositorios\iclienterepositorio.cs
+++PostgreSQConfiguration.cs
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\proyectosgit\clientes\clientes.data\postgresqconfiguration.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:c:\proyectosgit\clientes\clientes.data\microsoft.netcore.app
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:c:\proyectosgit\clientes\clientes.model\microsoft.netcore.app
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\microsoft.netcore.app
+++Dapper (2.0.123)
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:>77650
+++Npgsql (6.0.3)
+i:{abd625e7-22e4-43d3-ac5f-1473ecf0c72f}:>77649
+++ViewModels
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:c:\proyectosgit\clientes\clientes.model\viewmodels\
+++ClienteViewModel.cs
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:c:\proyectosgit\clientes\clientes.model\viewmodels\clienteviewmodel.cs
+++Cliente.cs
+i:{b75c5c4a-b9d7-430e-996c-0baaf81b6599}:c:\proyectosgit\clientes\clientes.model\cliente.cs
+++Clientes
+i:{00000000-0000-0000-0000-000000000000}:Clientes
+++Connected Services 
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:>77599
+++Microsoft.AspNetCore.SpaProxy (6.0.1)
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:>77613
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:>77611
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:>77612
+++Npgsql.EntityFrameworkCore.PostgreSQL (6.0.3)
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:>77614
+++Properties
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\properties\
+++wwwroot
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\wwwroot\
+++ClienteApp
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\
+++src
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\
+++.browserslistrc
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\.browserslistrc
+++.editorconfig
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\.editorconfig
+++.gitignore
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\.gitignore
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\.gitignore
+++angular.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\angular.json
+++aspnetcore-https.js
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\aspnetcore-https.js
+++karma.conf.js
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\karma.conf.js
+++package.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\package.json
+++proxy.conf.js
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\proxy.conf.js
+++README.md
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\readme.md
+++tsconfig.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\tsconfig.json
+++Controllers
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\controllers\
+++ClienteController.cs
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\controllers\clientecontroller.cs
+++WeatherForecastController.cs
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\controllers\weatherforecastcontroller.cs
+++Pages
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\pages\
+++appsettings.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\appsettings.json
+++Program.cs
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\program.cs
+++Startup.cs
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\startup.cs
+++WeatherForecast.cs
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\weatherforecast.cs
+++No se detectaron dependencias de servicio
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:>77600
+++Microsoft.AspNetCore.Analyzers
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\users\usuario\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\microsoft.aspnetcore.app
+++launchSettings.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\properties\launchsettings.json
+++favicon.ico
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\wwwroot\favicon.ico
+++app
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\
+++assets
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\assets\
+++environments
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\environments\
+++index.html
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\index.html
+++main.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\main.ts
+++polyfills.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\polyfills.ts
+++styles.css
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\styles.css
+++test.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\test.ts
+++package-lock.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\package-lock.json
+++tsconfig.app.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\tsconfig.app.json
+++tsconfig.spec.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\tsconfig.spec.json
+++_ViewImports.cshtml
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\pages\_viewimports.cshtml
+++Error.cshtml
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\pages\error.cshtml
+++appsettings.Development.json
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\appsettings.development.json
+++cliente
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\cliente\
+++home
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\home\
+++insertar-cliente
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\insertar-cliente\
+++models
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\models\
+++nav-menu
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\nav-menu\
+++services
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\services\
+++app.component.html
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\app.component.html
+++app.component.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\app.component.ts
+++app.module.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\app.module.ts
+++app.server.module.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\app.server.module.ts
+++.gitkeep
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\assets\.gitkeep
+++environment.prod.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\environments\environment.prod.ts
+++environment.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\environments\environment.ts
+++Error.cshtml.cs
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\pages\error.cshtml.cs
+++cliente.component.html
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\cliente\cliente.component.html
+++cliente.component.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\cliente\cliente.component.ts
+++home.component.html
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\home\home.component.html
+++home.component.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\home\home.component.ts
+++insertar-cliente.component.html
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\insertar-cliente\insertar-cliente.component.html
+++insertar-cliente.component.scss
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\insertar-cliente\insertar-cliente.component.scss
+++insertar-cliente.component.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\insertar-cliente\insertar-cliente.component.ts
+++cliente.model.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\models\cliente.model.ts
+++nav-menu.component.css
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\nav-menu\nav-menu.component.css
+++nav-menu.component.html
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\nav-menu\nav-menu.component.html
+++nav-menu.component.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\nav-menu\nav-menu.component.ts
+++cliente.service.spec.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\services\cliente.service.spec.ts
+++cliente.service.ts
+i:{b4975217-d648-4e8b-9750-1d1aec35e49b}:c:\proyectosgit\clientes\clientes\clienteapp\src\app\services\cliente.service.ts

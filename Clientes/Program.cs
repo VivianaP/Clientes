@@ -1,10 +1,19 @@
+using Clientes;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
 
+var startup = new Startup(builder.Configuration);
+
+startup.ConfigureServices(builder.Services);
+
+
 var app = builder.Build();
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
